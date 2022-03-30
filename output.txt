@@ -1,0 +1,45 @@
+<Comments , // Comment 1>
+<Comments , /* Comment 2 */>
+<Identifier , i>
+<Number , 213>
+<Number , -45.78e-71>
+<Number , 0213>
+<Number , 0x64>
+<Number , 0x213A>
+<Number , 0X213A>
+<Number , 0b101>
+<Number , 0B101>
+<Keyword , int>
+<Keyword , if>
+<Keyword , while>
+<String , "hello">
+<Operator , +>
+<Operator , ++>
+<Operator , &>
+<Operator , &&>
+<Operator , |>
+<Operator , *>
+<Operator , %>
+<Operator , >>>
+<Operator , >=>
+<Operator , ^>
+<Operator , ?>
+<Preprocessor , #include <stdio.h>>
+<Identifier , i>
+<Identifier , variable>
+<Identifier , name>
+<Identifier , whatever>
+<Separator , {>
+<Separator , }>
+<Separator , [>
+<Separator , ]>
+<Separator , ,>
+<Separator , ;>
+<Separator , '>
+<Separator , ">
+<Unrecognized , @>
+<Unrecognized , $>
+<String , "this is the last line, line number 45">
+
+Total no. of tokens = 40 
+Total no. of lines = 45 

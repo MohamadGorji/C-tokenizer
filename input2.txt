@@ -1,0 +1,45 @@
+// Comment 1
+/* Comment 2 */     i
+
+213
+-45.78e-71
+0213
+0x64
+0x213A
+0X213A
+0b101
+0B101
+
+int
+if
+while
+
+"hello"
+
++
+++
+&
+&&
+|
+*
+%
+>>
+>=
+^
+?
+
+#include <stdio.h>
+
+i
+variable
+name
+whatever
+
+{
+}
+[] , ; ' " 
+
+@
+$
+
+"this is the last line, line number 45"
